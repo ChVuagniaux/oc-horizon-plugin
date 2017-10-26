@@ -1,0 +1,5 @@
+{
+    "require": {
+        "laravel/horizon": "^1.0"
+    }
+}

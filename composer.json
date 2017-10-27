@@ -1,5 +1,13 @@
 {
+    "name": "ChVuagniaux/oc-horizon-plugin",
+    "type": "october-plugin",
+    "description": "Laravel Horizon integration for OctoberCMS",
+    "homepage": "https://github.com/ChVuagniaux/oc-horizon-plugin",
+    "keywords": ["october", "octobercms", "horizon", "laravel-queues"],
+    "license": "MIT",
     "require": {
+        "php": ">=7.1.0",
+        "ext-pcntl": "*",
         "laravel/horizon": "^1.0"
     }
 }

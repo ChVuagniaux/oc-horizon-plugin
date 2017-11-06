@@ -25,6 +25,7 @@ class Plugin extends PluginBase
             'description' => 'Queue monitoring dashboard by Laravel',
             'author'      => 'ChVuagniaux',
             'icon'        => 'icon-area-chart',
+            'homepage'    => 'http://octobercms.com/plugins/chvuagniaux-horizon'
         ];
     }
 
